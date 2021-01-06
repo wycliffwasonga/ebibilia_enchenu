@@ -9,5 +9,5 @@ Note: This is an ongoing project and currently it is very incomplete.
 | Book        | Chapter      | State           |
 | ----------- | ------------ | --------------- |
 | Matthew     | 1:1 - 28:20  | complete        |
-| Mark        | 1:1 -  2:28  | incomplete      |
+| Mark        | 1:1 -  3:35  | incomplete      |
 | ....        | ....         | not started yet |

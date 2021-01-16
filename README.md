@@ -11,5 +11,5 @@ Note: This is an ongoing project and currently it is very incomplete.
 | Matthew     | 1:1 - 28:20  | complete        |
 | Mark        | 1:1 - 16:20  | complete        |
 | Luke        | 1:1 - 24:53  | complete        |
-| John        | 1:1 - 14:31  | incomplete      |
+| John        | 1:1 - 15:27  | incomplete      |
 | ....        | ....         | not started yet |

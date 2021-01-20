@@ -12,5 +12,5 @@ Note: This is an ongoing project and currently it is very incomplete.
 | Mark        | 1:1 - 16:20  | complete        |
 | Luke        | 1:1 - 24:53  | complete        |
 | John        | 1:1 - 21:25  | complete        |
-| Acts        | 1:1 -&emsp;7:60  | incomplete      |
+| Acts        | 1:1 -&emsp;8:40  | incomplete      |
 | ....        | ....         | not started yet |
